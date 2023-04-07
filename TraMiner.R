@@ -15,7 +15,7 @@ library(cluster)
 
 # Data IO -----------------------------------------------------------------
 
-data(mvad)
+data(mvad )
 head(mvad)
 
 
